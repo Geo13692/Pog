@@ -20,6 +20,7 @@ class Main {
                 }
                 return m;
         }
+        //this hurts
         public static void main(String[] args){
                 int greater, lesser;
                 greater = 25;
